@@ -17,6 +17,12 @@ end
 Mean = sum(fx)/sum(f);
 lambda = Mean;
 
+disp("Mean is ");
+disp(Mean);
+
+disp("lambdaT is ");
+disp(lambda);
+
 disp("expected frequencies are: ");
 
 p=[];
